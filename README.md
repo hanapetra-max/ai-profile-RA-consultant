@@ -70,3 +70,9 @@
 * **Cross-Functional Bridge:** Acts as a functional liaison connecting local RA, Global RA, Quality Assurance, Manufacturing Sites, and IT vendors.
 * **Proactive Risk Mitigation:** Identifies critical dossier deficiencies and invalid submission strategies before they reach Health Authorities, preventing approval delays.
 * **Digital Regulatory Fluency:** Combines deep legislative knowledge with practical RIM system expertise (Veeva Vault SME). Capable of training teams, authoring guidelines, and bridging the gap between regulatory legislation and digital data governance.
+
+---
+
+## 4. EDUCATION
+
+* **Degree:** Ing. (Engineer, equivalent to MSc) in Food Chemistry & Technology — University of Chemistry and Technology (UCT), Prague, CZ (1997–2002).
